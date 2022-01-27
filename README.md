@@ -5,7 +5,7 @@ A [Prettier](https://prettier.io/) configuration based off the [Airbnb JavaScrip
 ## Installation
 
 ```sh
-npm install prettier prettier-config-airbnb --save-dev
+npm install prettier @simu-x/prettier-config-airbnb --save-dev
 ```
 
 ## Basic Usage
@@ -14,7 +14,7 @@ In your `package.json`, the `prettier` property will be added and defined like t
 
 ```jsonc
 {
-  "prettier": "prettier-config-airbnb"
+  "prettier": "@simu-x/prettier-config-airbnb"
 }
 ```
 

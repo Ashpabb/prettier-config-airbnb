@@ -1,11 +1,11 @@
 {
-  "name": "prettier-config-airbnb",
+  "name": "@simu-x/prettier-config-airbnb",
   "version": "2.0.0",
   "description": "A Prettier configuration based off the Airbnb JavaScript style guide",
   "main": ".prettierrc.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashpabb/prettier-config-airbnb.git"
+    "url": "git+https://github.com/simu-x/prettier-config-airbnb.git"
   },
   "scripts": {
     "postinstall": "node ./postInstall.js"
@@ -18,9 +18,9 @@
   "author": "Ashley Abbott (https://github.com/ashpabb)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashpabb/prettier-config-airbnb/issues"
+    "url": "https://github.com/simu-x/prettier-config-airbnb/issues"
   },
-  "homepage": "https://github.com/ashpabb/prettier-config-airbnb#readme",
+  "homepage": "https://github.com/simu-x/prettier-config-airbnb#readme",
   "peerDependencies": {
     "prettier": "^2.4.0"
   }
